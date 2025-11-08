@@ -1,6 +1,10 @@
-## 在线新闻
+# 在线新闻
 
 本MCP服务封装了新闻相关工具。
+
+<a href="https://glama.ai/mcp/servers/@xiaobenyang-com/xiaobenyang-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@xiaobenyang-com/xiaobenyang-mcp/badge" alt="xiaobenyang-mcp MCP server" />
+</a>
 
 ## 工具列表
 
